@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.16">
+	<ConfigVersions>
+		<Metadata name="Configuration.rps_" id="1f4bdf88-2b8a-4890-b0a1-9f4ec21ebed5" configVersion="458dc2e46e1f7b416c7ac753550fdf542a3bc41a"/>
+		<Metadata name="Document.ПоступлениеТоваровУслуг" id="35f92244-6275-43b2-a4dd-78b6b6e6d348" configVersion="e6891643a9299d5a22f2f925e7310530b23e3c79"/>
+		<Metadata name="Document.ПоступлениеТоваровУслуг.ObjectModule" id="35f92244-6275-43b2-a4dd-78b6b6e6d348.0" configVersion="c246fc7ce8c9bab4ef2fa8bacf24a06f252c6c23"/>
+		<Metadata name="Language.Русский" id="399221e2-d319-49d9-9374-f20efd0dbb40" configVersion="c8980056b4acced58af38891e01da7c3d9cd80ad"/>
+		<Metadata name="Role.rps_ОсновнаяРоль" id="11ba20fb-bb77-4129-ab4c-5d1227306156" configVersion="97412242f83e880e1ce7ea1d5f0077f08cf14843"/>
+	</ConfigVersions>
+</ConfigDumpInfo>
